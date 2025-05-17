@@ -1,0 +1,1 @@
+console.log("Clover Mini App запущен");
